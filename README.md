@@ -1,8 +1,7 @@
 # TypeScript Weather API
 ---
 <div>
-<b>Quick menu:</b>
-<a href="https://theultimateapichallenge.com/challenges/weather-typescript-api" target="_blank" rel="noopener"
+
     style="padding:0.35rem 0.7rem;
     color: black;
     background: #BDFFF3;
